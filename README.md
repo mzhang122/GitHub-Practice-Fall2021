@@ -65,7 +65,9 @@
 | Jennifer McIntyre       | Wed/Fri 2:30 pm   | jmcint7372           | https://github.com/Jmcint7372/GitHub-Practice-Fall2021   |            
 | Layla Gilbert           | Wed/Fri 2:30pm    | LaylaGilbert         | https://github.com/LaylaGilbert/GitHub-Practice-Fall2021 |          
 | Carson Pedaci           | Wed/Fri 2:30pm    | cwp5404              | https://github.com/cpedaci5404/8-27                      |
+| Haydne Golden           | Wed/Fri 2:30pm    | HaydneGolden         | https://github.com/HaydneGolden/GitHub-Practice-Fall2021 |
 | Andrew Costa            | Wed/Fri 1:25pm    | avc5900              | https://github.com/avc5900/GitHub-Practice-Fall2021      |
+          
 
 
 
