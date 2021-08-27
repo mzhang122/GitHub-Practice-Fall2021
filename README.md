@@ -43,7 +43,7 @@
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |
 | Sneha Prem Chandran     | Wed/Fri 1:25pm    | snehaprem03          | https://github.com/snehaprem03/README                    |
-| Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
+| Will Zwetolitz          | Wed/Fri 1:25pm    | willzwetolitz        | https://github.com/willzwetolitz/README.git              |        
 | Rohith Natarajan        | Wed/Fri 1:25pm    | rkn5136              | https://github.com/rkn5136/Test                          |
 | Parag   Patel           | Wed/Fri 1:25pm    | pzp5254              | https://github.com/pzp5254/improved-computing-machine    |
 | Nathan Quint            | Wed/Fri 1:25pm    | nquint16             | https://github.com/nquint16/Temp                         |  
