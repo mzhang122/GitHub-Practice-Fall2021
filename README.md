@@ -42,6 +42,7 @@
 | Name                    | Class Section     | GitHub ID            |url for your GiHub repo                                   |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
+| Sanghyuk Chae           | Wed/Fri 2:14pm    | sanghyukchae         | https://github.com/sanghyukchae/schae9813                |
 | Hongyi Xia              | Wed/Fri 1:25pm    | hy2021-IT            | https://github.com/hy2021-IT/README.HY                   |
 | Tessa Gill              | Wed/Fri 1:25pm    | tessagill            | https://github.com/tessagill/hello-world                 |
 | Kieran Laverty          | Wed/Fri 1:25pm    | kieranlaverty        | https://github.com/kieranlaverty/GitHub-Practice-Fall2021 |           
@@ -67,8 +68,6 @@
 | Carson Pedaci           | Wed/Fri 2:30pm    | cwp5404              | https://github.com/cpedaci5404/8-27                      |
 | Haydne Golden           | Wed/Fri 2:30pm    | HaydneGolden         | https://github.com/HaydneGolden/GitHub-Practice-Fall2021 |
 | Andrew Costa            | Wed/Fri 1:25pm    | avc5900              | https://github.com/avc5900/GitHub-Practice-Fall2021      |
-          
-
 
 
 
