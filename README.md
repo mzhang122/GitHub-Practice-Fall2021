@@ -68,8 +68,9 @@
 | Carson Pedaci           | Wed/Fri 2:30pm    | cwp5404              | https://github.com/cpedaci5404/8-27                      |
 | Haydne Golden           | Wed/Fri 2:30pm    | HaydneGolden         | https://github.com/HaydneGolden/GitHub-Practice-Fall2021 |
 | Nicholas DeSilva        | Wed/Fri 2:30pm    | nickdesilva          | https://github.com/nickdesilva/GitHub-Practice-Fall2021/edit/master/README.md  |
-| Andrew Costa            | Wed/Fri 1:25pm    | avc5900              | https://github.com/avc5900/GitHub-Practice-Fall2021      |
+| Nasser Alhemeiri        | Wed/Fri 1:25pm    | hemairi              | https://github.com/hemairi/repo0                         |  
 | Jennifer Miller         | Wed/Fri 2:30pm    | jennifermiller26     | https://github.com/jennifermiller26/fuzzy-garbanzo       |
+| Andrew Costa            | Wed/Fri 1:25pm    | avc5900              | https://github.com/avc5900/GitHub-Practice-Fall2021      |
           
 
 
