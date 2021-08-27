@@ -43,6 +43,8 @@
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
 | Andrew Costa            | Wed/Fri 1:25pm    | avc5900              | https://github.com/avc5900/GitHub-Practice-Fall2021      |
+| TJ Martin               | Wed/Fri 1:25pm    | TJM257               | https://github.com/TJM257/GitHub-Practice-Fall2021       |
+
           
 
 
