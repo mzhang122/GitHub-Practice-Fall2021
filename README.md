@@ -43,8 +43,9 @@
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
 | Andrew Costa            | Wed/Fri 1:25pm    | avc5900              | https://github.com/avc5900/GitHub-Practice-Fall2021      |
-          
-
+| Mohammed AlRasebi       | Wed/Fri 2:30pm    | mha5305              | https://github.com/MohammedAlrasebi/-mha5305-GitHub-Practice-Fall2021      |
+                    
+Added Mohammed AlRasebi information to class GitHub Table. 
 
 
 
