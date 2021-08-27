@@ -74,7 +74,7 @@
 | Jennifer Miller         | Wed/Fri 2:30pm    | jennifermiller26     | https://github.com/jennifermiller26/fuzzy-garbanzo       |
 | David Marchenko         | Wed/Fri 1:25pm    | davidmarchenko       | https://github.com/davidmarchenko/solid-octo-broccoli    |
 | Andrew Costa            | Wed/Fri 1:25pm    | avc5900              | https://github.com/avc5900/GitHub-Practice-Fall2021      |
-          
+| Rohan Patil             | Wed/Fri 2:30pm    | Rohan1237            | https://github.com/Rohan1237/1                           |          
 
 
 
