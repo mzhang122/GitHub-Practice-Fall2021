@@ -76,7 +76,7 @@
 | Jack Howard             | Wed/Fri 1:25pm    | jackhoward0348       | https://github.com/jackhoward0348/howardstat184          |
 | Rohan Patil             | Wed/Fri 2:30pm    | Rohan1237            | https://github.com/Rohan1237/1                           |          
 | Andrew Costa            | Wed/Fri 1:25pm    | avc5900              | https://github.com/avc5900/GitHub-Practice-Fall2021      |
-          
+| Jeremy Bednar           | Wed/Fri 2:30pm    | 20bednarj            | 20bednarjGitHub-Practice-Fall2021                        |          
 
 
 
