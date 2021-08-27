@@ -39,9 +39,10 @@
 
 # Class GitHub Table 
 
-| Name                    | Class Section     | GitHub ID            |url for your GiHub repo                                   |  
-|:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
-| Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
+| Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                                      |  
+|:------------------------|:------------------|:---------------------|:------------------------------------------------------------------------------|  
+| Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                                           |  
+| Aidan Friedman          | Wed/Fri 2:30pm    | ajf6149              | https://github.com/ajf6149/GitHub-Practice-Fall2021/edit/master/README.md     |          
 | Rashed Almogezwi        | Wed/Fri 2:30pm    | rxa5394              | https://github.com/rxa5394/GitHub-Practice-Fall2021     |
 | Sanghyuk Chae           | Wed/Fri 2:14pm    | sanghyukchae         | https://github.com/sanghyukchae/schae9813                |
 | Hongyi Xia              | Wed/Fri 1:25pm    | hy2021-IT            | https://github.com/hy2021-IT/README.HY                   |
