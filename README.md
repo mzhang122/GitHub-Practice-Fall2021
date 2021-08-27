@@ -39,9 +39,10 @@
 
 # Class GitHub Table 
 
-| Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
+| Name                    | Class Section     | GitHub ID            |url for your GiHub repo                                   |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
-| Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
+| Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      | 
+| Connor McCormick        | Wed/Fri 1:25pm    | cmccormick10         | https://github.com/cmccormick10/GitHub-Practice-Fall2021 |  
 |  Justin Tien            |  Wed/Fri 1:25pm   |   Justin5381         | https://github.com/Justin5381/GitHub-Practice-Fall2021   |
 | Zelin Ding              | Wed/Fri 1:25pm    | lanshuL              | https://github.com/lanshuL/ZELIN-DING                    |
 | Peter Phillips          | Wed/Fri 1:25pm    | pophillips           | https://github.com/pophillips/STAT-184                   |
@@ -49,7 +50,7 @@
 | Sneha Prem Chandran     | Wed/Fri 1:25pm    | snehaprem03          | https://github.com/snehaprem03/README                    |
 | Will Zwetolitz          | Wed/Fri 1:25pm    | willzwetolitz        | https://github.com/willzwetolitz/README.git              |        
 | Rohith Natarajan        | Wed/Fri 1:25pm    | rkn5136              | https://github.com/rkn5136/Test                          |
-| Parag   Patel           | Wed/Fri 1:25pm    | pzp5254              | https://github.com/pzp5254/improved-computing-machine    |
+| Parag Patel             | Wed/Fri 1:25pm    | pzp5254              | https://github.com/pzp5254/improved-computing-machine    |
 | Nathan Quint            | Wed/Fri 1:25pm    | nquint16             | https://github.com/nquint16/Temp                         |  
 | Kadence Boatman         | Wed/Fri 1:25pm    | kadencebean          | https://github.com/kadencebean/test                      |
 | Christopher Kramer      | Wed/Fri 1:25pm    | c18kramer            | https://github.com/c18kramer/introtogithub               |  
