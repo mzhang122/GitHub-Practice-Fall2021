@@ -39,11 +39,12 @@
 
 # Class GitHub Table 
 
-| Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                                      |  
-|:------------------------|:------------------|:---------------------|:------------------------------------------------------------------------------|  
-| Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                                           |  
+| Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
+|:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
+| Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
+| Kevin Mouck             | Wed/Fri 1:25pm    | kmouck88             | https://github.com/kmouck88/kevinmouck.git               |          
 | Aidan Friedman          | Wed/Fri 2:30pm    | ajf6149              | https://github.com/ajf6149/GitHub-Practice-Fall2021/edit/master/README.md     |          
-| Rashed Almogezwi        | Wed/Fri 2:30pm    | rxa5394              | https://github.com/rxa5394/GitHub-Practice-Fall2021     |
+| Rashed Almogezwi        | Wed/Fri 2:30pm    | rxa5394              | https://github.com/rxa5394/GitHub-Practice-Fall2021      |
 | Sanghyuk Chae           | Wed/Fri 2:14pm    | sanghyukchae         | https://github.com/sanghyukchae/schae9813                |
 | Hongyi Xia              | Wed/Fri 1:25pm    | hy2021-IT            | https://github.com/hy2021-IT/README.HY                   |
 | Tessa Gill              | Wed/Fri 1:25pm    | tessagill            | https://github.com/tessagill/hello-world                 |
@@ -77,8 +78,8 @@
 | Rohan Patil             | Wed/Fri 2:30pm    | Rohan1237            | https://github.com/Rohan1237/1                           |          
 | TJ Martin               | Wed/Fri 1:25pm    | TJM257               | https://github.com/TJM257/GitHub-Practice-Fall2021       |
 | Jeremy Bednar           | Wed/Fri 2:30pm    | 20bednarj            | 20bednarjGitHub-Practice-Fall2021                        |          
+| Sam Cerimele            | Wed/Fri 2:30pm    | scerimele12          |https://github.com/scerimele12/bug-free-telegram          | 
 | Andrew Costa            | Wed/Fri 1:25pm    | avc5900              | https://github.com/avc5900/GitHub-Practice-Fall2021      |
-| Sam Cerimele            | Wed/Fri 2:30pm    | scerimele12          |https://github.com/scerimele12/bug-free-telegram       | 
 
 
 
