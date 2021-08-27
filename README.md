@@ -72,8 +72,9 @@
 | Nicholas DeSilva        | Wed/Fri 2:30pm    | nickdesilva          | https://github.com/nickdesilva/GitHub-Practice-Fall2021/edit/master/README.md  |
 | Nasser Alhemeiri        | Wed/Fri 1:25pm    | hemairi              | https://github.com/hemairi/repo0                         |  
 | Jennifer Miller         | Wed/Fri 2:30pm    | jennifermiller26     | https://github.com/jennifermiller26/fuzzy-garbanzo       |
+| David Marchenko         | Wed/Fri 1:25pm    | davidmarchenko       | https://github.com/davidmarchenko/solid-octo-broccoli    |
 | Andrew Costa            | Wed/Fri 1:25pm    | avc5900              | https://github.com/avc5900/GitHub-Practice-Fall2021      |
-        
+          
 
 
 
