@@ -41,10 +41,11 @@
 
 | Name                    | Class Section     | GitHub ID            |url for your GiHub repo                                   |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
-| Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
-| Kieran Laverty          | Wed/Fri 1:25pm    | kieranlaverty       | https://github.com/kieranlaverty/GitHub-Practice-Fall2021 |           
+| Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |
+| Tessa Gill              | Wed/Fri 1:25pm    | tessagill            | https://github.com/tessagill/hello-world                 |
+| Kieran Laverty          | Wed/Fri 1:25pm    | kieranlaverty        | https://github.com/kieranlaverty/GitHub-Practice-Fall2021 |           
 | Connor McCormick        | Wed/Fri 1:25pm    | cmccormick10         | https://github.com/cmccormick10/GitHub-Practice-Fall2021 |  
-|  Justin Tien            |  Wed/Fri 1:25pm   |   Justin5381         | https://github.com/Justin5381/GitHub-Practice-Fall2021   |
+| Justin Tien             |  Wed/Fri 1:25pm   |   Justin5381         | https://github.com/Justin5381/GitHub-Practice-Fall2021   |
 | Zelin Ding              | Wed/Fri 1:25pm    | lanshuL              | https://github.com/lanshuL/ZELIN-DING                    |
 | Peter Phillips          | Wed/Fri 1:25pm    | pophillips           | https://github.com/pophillips/STAT-184                   |
 | Ellen Chen              | Wed/Fri 1:25pm    | ellen107             | https://github.com/ellen107/testRepo1                    |  
