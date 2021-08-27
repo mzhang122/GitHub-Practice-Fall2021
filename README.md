@@ -39,11 +39,11 @@
 
 # Class GitHub Table 
 
-| Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
-|:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
-| Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
-| Andrew Costa            | Wed/Fri 1:25pm    | avc5900              | https://github.com/avc5900/GitHub-Practice-Fall2021      |
-          
+| Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                                      |  
+|:------------------------|:------------------|:---------------------|:------------------------------------------------------------------------------|  
+| Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                                           |  
+| Andrew Costa            | Wed/Fri 1:25pm    | avc5900              | https://github.com/avc5900/GitHub-Practice-Fall2021                           |
+| Aidan Friedman          | Wed/Fri 2:30pm    | ajf6149              | https://github.com/ajf6149/GitHub-Practice-Fall2021/edit/master/README.md     |          
 
 
 
