@@ -39,10 +39,10 @@
 
 # Class GitHub Table 
 
-| Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
+| Name                    | Class Section     | GitHub ID            |url for your GiHub repo                                   |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
-| Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
-          
+| Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      | 
+| Connor McCormick        | Wed/Fri 1:25pm    | cmccormick10         | https://github.com/cmccormick10/GitHub-Practice-Fall2021                |        
 
 
 
