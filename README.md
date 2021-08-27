@@ -42,7 +42,8 @@
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
-| Peter Phillips          | Wed/Fri 1:25pm    | pophillips           | https://github.com/pophillips/STAT-184
+| Zelin Ding              | Wed/Fri 1:25pm    | lanshuL              | https://github.com/lanshuL/ZELIN-DING                    |
+| Peter Phillips          | Wed/Fri 1:25pm    | pophillips           | https://github.com/pophillips/STAT-184                   |
 | Ellen Chen              | Wed/Fri 1:25pm    | ellen107             | https://github.com/ellen107/testRepo1                    |  
 | Sneha Prem Chandran     | Wed/Fri 1:25pm    | snehaprem03          | https://github.com/snehaprem03/README                    |
 | Will Zwetolitz          | Wed/Fri 1:25pm    | willzwetolitz        | https://github.com/willzwetolitz/README.git              |        
