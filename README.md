@@ -42,7 +42,7 @@
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
-          
+| Kieran Laverty          | Wed/Fri 1:25pm    | kieranlaverty        | https://github.com/kieranlaverty/GitHub-Practice-Fall2021|           
 
 
 
