@@ -43,6 +43,7 @@
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
 | Andrew Costa            | Wed/Fri 1:25pm    | avc5900              | https://github.com/avc5900/GitHub-Practice-Fall2021      |
+  Nicholas DeSilva          Wed/Fri 2:30pm      nickdesilva            https://github.com/nickdesilva/GitHub-Practice-Fall2021/edit/master/README.md
           
 
 
