@@ -42,6 +42,7 @@
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
+| Peter Phillips          | Wed/Fri 1:25pm    | pophillips           | https://github.com/pophillips/STAT-184
 | Ellen Chen              | Wed/Fri 1:25pm    | ellen107             | https://github.com/ellen107/testRepo1                    |  
 | Sneha Prem Chandran     | Wed/Fri 1:25pm    | snehaprem03          | https://github.com/snehaprem03/README                    |
 | Will Zwetolitz          | Wed/Fri 1:25pm    | willzwetolitz        | https://github.com/willzwetolitz/README.git              |        
@@ -51,7 +52,7 @@
 | Kadence Boatman         | Wed/Fri 1:25pm    | kadencebean          | https://github.com/kadencebean/test                      |
 | Christopher Kramer      | Wed/Fri 1:25pm    | c18kramer            | https://github.com/c18kramer/introtogithub               |  
 | Andrew Costa            | Wed/Fri 1:25pm    | avc5900              | https://github.com/avc5900/GitHub-Practice-Fall2021      |
-
+          
 
 
 
