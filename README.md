@@ -62,8 +62,9 @@
 | Mohammed AlRasebi       | Wed/Fri 2:30pm    | MohammedAlrasebi     | https://github.com/MohammedAlrasebi/-mha5305-GitHub-Practice-Fall2021      |
 | Jaime Lara              | Wed/Fri 1:25pm    | jaimefl              | https://github.com/jaimefl/fall-2021                     |
 | Yue Yang                | Wed/Fri 1:25pm    | YueYangSam           | https://github.com/avc5900/GitHub-Practice-Fall2021      |
-| Andrew Costa            | Wed/Fri 1:25pm    | avc5900              | https://github.com/avc5900/GitHub-Practice-Fall2021      |
+| Jennifer McIntyre       | Wed/Fri 2:30 pm   | jmcint7372           | https://github.com/Jmcint7372/GitHub-Practice-Fall2021      |            
 | Layla Gilbert           | Wed/Fri 2:30pm    | LaylaGilbert         | https://github.com/LaylaGilbert/GitHub-Practice-Fall2021 |          
+| Andrew Costa            | Wed/Fri 1:25pm    | avc5900              | https://github.com/avc5900/GitHub-Practice-Fall2021      |
 
 
 
