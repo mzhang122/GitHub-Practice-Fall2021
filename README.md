@@ -69,6 +69,7 @@
 | Haydne Golden           | Wed/Fri 2:30pm    | HaydneGolden         | https://github.com/HaydneGolden/GitHub-Practice-Fall2021 |
 | Nicholas DeSilva        | Wed/Fri 2:30pm    | nickdesilva          | https://github.com/nickdesilva/GitHub-Practice-Fall2021/edit/master/README.md  |
 | Andrew Costa            | Wed/Fri 1:25pm    | avc5900              | https://github.com/avc5900/GitHub-Practice-Fall2021      |
+| Jennifer Miller         | Wed/Fri 2:30pm    | jennifermiller26     | https://github.com/jennifermiller26/fuzzy-garbanzo       |
           
 
 
