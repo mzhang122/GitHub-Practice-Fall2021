@@ -42,6 +42,7 @@
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
+| Caroline Ho             | Wed/Fri 1:25pm    | hocaroline17         | https://github.com/hocaroline17/hocaroline17             |
           
 
 
