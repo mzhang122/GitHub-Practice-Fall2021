@@ -63,7 +63,7 @@
 | Jaime Lara              | Wed/Fri 1:25pm    | jaimefl              | https://github.com/jaimefl/fall-2021                     |
 | Yue Yang                | Wed/Fri 1:25pm    | YueYangSam           | https://github.com/avc5900/GitHub-Practice-Fall2021      |
 | Andrew Costa            | Wed/Fri 1:25pm    | avc5900              | https://github.com/avc5900/GitHub-Practice-Fall2021      |
-          
+| Layla Gilbert           | Wed/Fri 2:30pm    | LaylaGilbert         | https://github.com/LaylaGilbert/GitHub-Practice-Fall2021 |          
 
 
 
