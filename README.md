@@ -37,6 +37,7 @@
 <br>
 
 
+
 # Class GitHub Table 
 
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
@@ -93,3 +94,6 @@
 - Simplified instructions: [Data Computing eBook--Appendix: GitHub-RStudio Configuration](https://dtkaplan.github.io/DataComputingEbook/appendix-github-rstudio-configuration.html#appendix-github-rstudio-configuration)  
 - More detail if needed: <http://happygitwithr.com/index.html>
 
+| Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
+|:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
+| Miaosen Zhang           | Wed/Fri 1:25pm    | mzhang122            | https://github.com/mzhang122/GitHub-Practice-Fall2021/   |                     |  
